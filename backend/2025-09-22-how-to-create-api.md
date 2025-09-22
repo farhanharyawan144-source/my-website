@@ -13,4 +13,4 @@ authors:
 ---
 How to create api
 
-![](/img/staff0000001.png)
+![](/img/screenshot-from-2025-09-18-14-59-26.png)
