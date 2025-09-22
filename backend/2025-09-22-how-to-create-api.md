@@ -13,6 +13,4 @@ authors:
 ---
 How to create api
 
-
-
 ![](/img/staff0000001.png)
